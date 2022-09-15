@@ -18,6 +18,7 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
+  document.title = 'BrenoAraujo | Portfolio';
   const [load, upadateLoad] = useState(true);
 
   useEffect(() => {

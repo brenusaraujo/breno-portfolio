@@ -19,12 +19,33 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I am a former english teacher (I still teach for a few people). 🇺🇸
+              <br />
+              In 2020 I started work from home, 'cause of the pandemic. And I realise
+              how
+              <br />
+              amazing is to have my loved ones around, work from anywhere and still be
+              <br />
+              really productive. So I came back to studying backend development, that I had
+              <br />
+              studied in my bachelor's (2015-2019) in Exact Sciences and Tecnologies, 
+              <br />
+              UFRB (Federal University of Bahia's Recôncavo). I also started a course at
+              <br />
+              Trybe {" "}
+              <a
+                href="https://www.betrybe.com/" 
+                target="_blank" 
+                rel="noreferrer"
+                style={{ textDecoration: 'inherit'}}
+                className="purple"
+              >
+              (check how it works!)
+              </a> to be an amazing webdeveloper, focused in backend development.
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple"> React, TypeScript, Javascript and Python. </b>
               </i>
               <br />
               <br />
@@ -48,7 +69,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js.</b>
               </i>
             </p>
           </Col>
