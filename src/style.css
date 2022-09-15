@@ -11,7 +11,7 @@ html {
     rgba(12, 10, 22, 0.863)
   );
 
-  --imp-text-color: #c770f0;
+  --imp-text-color: #6f89ef;
 }
 
 .purple {
@@ -57,18 +57,18 @@ button:focus {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #2d1950;
+  background: #191c50;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: rgba(178, 121, 216, 0.959);
+  background: rgba(129, 121, 216, 0.959);
   border-radius: 12px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(222, 130, 235, 0.911);
+  background: rgba(26, 13, 167, 0.911);
   border-radius: 12px;
 }
 
@@ -194,7 +194,7 @@ button:focus {
   height: 5px;
   width: 0;
   border-radius: 16px;
-  background: #c95bf5;
+  background: #605bf5;
   bottom: 1px;
   left: 0;
   z-index: -1;
@@ -281,12 +281,12 @@ button:focus {
 }
 
 .main-name {
-  color: #cd5ff8;
+  color: #444fc4;
 }
 
 .Typewriter__wrapper {
   font-size: 2.2em !important;
-  color: #be6adf !important;
+  color: #444fc4 !important;
   font-weight: 600 !important;
 }
 .Typewriter__cursor {
@@ -395,7 +395,7 @@ button:focus {
 }
 
 .icon-colour {
-  color: #700c86 !important;
+  color: #280c86 !important;
 }
 
 /* --------- */
