@@ -44,7 +44,7 @@ function Projects() {
             <ProjectCard
               imgPath={trybewallet}
               isBlog={false}
-              title="Ai For Social Good"
+              title="TrybeWallet"
               description="In this project I was responsible for developing an expenses control wallet including a currency converter. Using this app, the user is capable to: add, remove or edit an expense; see a dynamic table of his/hers expenses, see the total expenses converted to a chosen currency. Customized using Styled Components."
               ghLink="https://bit.ly/3eYIEnl"
             />
