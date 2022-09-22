@@ -18,7 +18,7 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  document.title = 'BrenoAraujo | Portfolio';
+  document.title = 'Breno Portfolio';
   const [load, upadateLoad] = useState(true);
 
   useEffect(() => {
@@ -30,7 +30,7 @@ function App() {
   }, []);
 
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router>
       <Preloader load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
