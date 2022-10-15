@@ -7,6 +7,7 @@ import trivia from "../../Assets/Projects/trivia.png";
 import trybetunes from "../../Assets/Projects/trybetunes.png";
 import recipeapp from "../../Assets/Projects/recipeapp.png";
 import trybewallet from "../../Assets/Projects/trybewallet.png";
+import storemanager from "../../Assets/Projects/storemanager.jpeg";
 
 function Projects() {
   return (
@@ -70,6 +71,15 @@ function Projects() {
             />
           </Col>
 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={storemanager}
+              isBlog={false}
+              title="Store Manager"
+              description="In this project, I was resposible to build and app using MSC (Model, Service and Controller) archtecture. This app is for a store, and manage its sales and products. "
+              ghLink="https://bit.ly/3g7TBUc"
+            />
+          </Col>
 
         </Row>
       </Container>
