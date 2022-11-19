@@ -8,6 +8,7 @@ import trybetunes from "../../Assets/Projects/trybetunes.png";
 import recipeapp from "../../Assets/Projects/recipeapp.png";
 import trybewallet from "../../Assets/Projects/trybewallet.png";
 import storemanager from "../../Assets/Projects/storemanager.jpeg";
+import oop from '../../Assets/Projects/oop.png'
 
 function Projects() {
   return (
@@ -37,7 +38,7 @@ function Projects() {
               isBlog={false}
               title="Frontend Online Store"
               description="In this project I was responsible for developing a simplified version, without using a database, of an online store, developing in group its features. Using this app, the user is capable to: search, add and remove products from a shopping cart; see the details and previous reviews of a product, as well as create new reviews and; simulate a purchase of the selected items."
-              ghLink="https://bit.ly/3xvS93O"              
+              ghLink="https://bit.ly/3xvS93O"
             />
           </Col>
 
@@ -67,6 +68,15 @@ function Projects() {
               isBlog={false}
               title="TrybeTunes"
               description="In this project, I developed an app capable of playing music from different bands and artists, creating a playlist of your favorite music and editing the user's profile. Also, in this app, the user is capable of: search for a band or an artist; list the available albuns of this band or artist; see the music of a selected album; see the favorites music; see the user's profile; edit the user's profile."
+              ghLink="https://bit.ly/3QWEae6"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={oop}
+              isBlog={false}
+              title="Trybers and Dragons"
+              description="In this project, I developed an app using Oriented-Object Programin and SOLID principles. This app simulate a RPG game. "
               ghLink="https://bit.ly/3QWEae6"
             />
           </Col>
