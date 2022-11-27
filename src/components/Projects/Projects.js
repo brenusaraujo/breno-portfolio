@@ -28,7 +28,7 @@ function Projects() {
               imgPath={tfc}
               isBlog={false}
               title="TFC (Trybe Futebol Clube)"
-              description="In this project I was responsible for developing, by myself, a website that simulate a football championship. In this app, we can add new matches, see the complete leaderboard and the home and away leaderboard."
+              description="In this project I was responsible for developing, by myself, a website that simulate a football championship. In this app, we can add new matches, see the complete leaderboard and the home and away leaderboard. Please, check the github's repository for better informations."
               ghLink="https://bit.ly/tfc-breno"
             />
           </Col>
