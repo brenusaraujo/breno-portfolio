@@ -8,6 +8,7 @@ import trybetunes from "../../Assets/Projects/trybetunes.png";
 import recipeapp from "../../Assets/Projects/recipeapp.png";
 import trybewallet from "../../Assets/Projects/trybewallet.png";
 import storemanager from "../../Assets/Projects/storemanager.jpeg";
+import tfc from '../../Assets/Projects/tfc.png'
 import oop from '../../Assets/Projects/oop.png'
 
 function Projects() {
@@ -22,6 +23,16 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={tfc}
+              isBlog={false}
+              title="TFC (Trybe Futebol Clube)"
+              description="In this project I was responsible for developing, by myself, a website that simulate a football championship. In this app, we can add new matches, see the complete leaderboard and the home and away leaderboard."
+              ghLink="https://bit.ly/tfc-breno"
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={recipeapp}
@@ -90,6 +101,7 @@ function Projects() {
               ghLink="https://bit.ly/3g7TBUc"
             />
           </Col>
+          
 
         </Row>
       </Container>
