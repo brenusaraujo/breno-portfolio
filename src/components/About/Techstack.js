@@ -6,8 +6,13 @@ import {
   DiNodejs,
   DiPython,
   DiGit,
-  DiMysql
+  DiMysql,
+  DiMongodb
 } from "react-icons/di";
+import {
+  SiTypescript,
+  SiJest
+} from 'react-icons/si'
 
 function Techstack() {
   return (
@@ -29,6 +34,15 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiPython />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiTypescript />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiMongodb />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiJest />
       </Col>
     </Row>
   );
