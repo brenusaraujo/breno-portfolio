@@ -60,7 +60,7 @@ function Home2() {
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <i><b className="purple">Node.js</b></i> and
+              with <i><b className="purple">Node.js using Typescript, MySQL, Python and Java,</b></i> and
               <i>
                 <b className="purple">
                   {" "}
