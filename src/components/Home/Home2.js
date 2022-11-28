@@ -28,24 +28,24 @@ function Home2() {
               <br />
               really productive. So I came back to studying backend development, that I had
               <br />
-              studied in my bachelor's (2015-2019) in Exact Sciences and Tecnologies, 
+              studied in my bachelor's (2015-2019) in Exact Sciences and Tecnologies,
               <br />
               UFRB (Federal University of Bahia's Recôncavo). I also started a course at
               <br />
               Trybe {" "}
               <a
-                href="https://www.betrybe.com/" 
-                target="_blank" 
+                href="https://www.betrybe.com/"
+                target="_blank"
                 rel="noreferrer"
-                style={{ textDecoration: 'inherit'}}
+                style={{ textDecoration: 'inherit' }}
                 className="purple"
               >
-              (check how it works!)
+                (check how it works!)
               </a> to be an amazing webdeveloper, focused in backend development.
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> React, TypeScript, Javascript and Python. </b>
+                <b className="purple"> React, TypeScript, Javascript, MySQL, Python, Java and MongoDB. </b>
               </i>
               <br />
               <br />
