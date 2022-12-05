@@ -39,7 +39,7 @@ function Projects() {
               isBlog={false}
               title="Recipe App"
               description="In this project I was responsible for developing, in group, a recipe app, using React Hooks and Context API. On it, it will be possible to: see, search, filter, favorite and follow the progress of meals and drinks recipes. I used two distincts APIs, one for meals and another for drinks. The layout is designed for mobile devices, that's why it was coded for smaller screens. Customized using Styled Components."
-              ghLink="https://bit.ly/3S5Gfpg"
+              ghLink="https://bit.ly/recipeapp-github-repository"
             />
           </Col>
 
@@ -49,7 +49,7 @@ function Projects() {
               isBlog={false}
               title="Frontend Online Store"
               description="In this project I was responsible for developing a simplified version, without using a database, of an online store, developing in group its features. Using this app, the user is capable to: search, add and remove products from a shopping cart; see the details and previous reviews of a product, as well as create new reviews and; simulate a purchase of the selected items."
-              ghLink="https://bit.ly/3xvS93O"
+              ghLink="https://bit.ly/frontend-github-breno"
             />
           </Col>
 
@@ -59,7 +59,7 @@ function Projects() {
               isBlog={false}
               title="TrybeWallet"
               description="In this project I was responsible for developing an expenses control wallet including a currency converter. Using this app, the user is capable to: add, remove or edit an expense; see a dynamic table of his/hers expenses, see the total expenses converted to a chosen currency. Customized using Styled Components."
-              ghLink="https://bit.ly/3eYIEnl"
+              ghLink="https://bit.ly/trybewallet-github-breno "
             />
           </Col>
 
@@ -69,7 +69,7 @@ function Projects() {
               isBlog={false}
               title="Trivia"
               description="In this project, I was responsible for developing a Trivia game, using React and Redux. In this app, the user is capable of: sign in; access the game area; choose an answer for each question; be redirected, after 5 streak answers, to a score screen, where the text shown depends of how many correct answers; see a ranking screen in the end of each game; set up some game options in a settings screen;"
-              ghLink="https://bit.ly/3qR3lUQ"
+              ghLink="https://bit.ly/trivia-github-repository"
             />
           </Col>
 
@@ -79,7 +79,7 @@ function Projects() {
               isBlog={false}
               title="TrybeTunes"
               description="In this project, I developed an app capable of playing music from different bands and artists, creating a playlist of your favorite music and editing the user's profile. Also, in this app, the user is capable of: search for a band or an artist; list the available albuns of this band or artist; see the music of a selected album; see the favorites music; see the user's profile; edit the user's profile."
-              ghLink="https://bit.ly/3QWEae6"
+              ghLink="https://bit.ly/trybetunes-github-breno"
               liveVersion="https://trybetunes-breno.vercel.app"
             />
           </Col>
