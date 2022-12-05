@@ -17,6 +17,10 @@ function ProjectCards(props) {
           <BsGithub /> &nbsp;
           {props.isBlog ? "Blog" : "GitHub"}
         </Button>
+        <Button variant="primary" href={props.liveVersion} target="_blank">
+          <BsGithub /> &nbsp;
+          {props.liveVersion ? "Blog" : "GitHub"}
+        </Button>
         {"\n"}
         {"\n"}
 

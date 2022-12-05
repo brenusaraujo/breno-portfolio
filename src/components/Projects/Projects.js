@@ -80,6 +80,7 @@ function Projects() {
               title="TrybeTunes"
               description="In this project, I developed an app capable of playing music from different bands and artists, creating a playlist of your favorite music and editing the user's profile. Also, in this app, the user is capable of: search for a band or an artist; list the available albuns of this band or artist; see the music of a selected album; see the favorites music; see the user's profile; edit the user's profile."
               ghLink="https://bit.ly/3QWEae6"
+              liveVersion="https://trybetunes-breno.vercel.app"
             />
           </Col>
           <Col md={4} className="project-card">
