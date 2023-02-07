@@ -11,7 +11,8 @@ import {
 } from "react-icons/di";
 import {
   SiTypescript,
-  SiJest
+  SiJest,
+  SiGoogleanalytics,
 } from 'react-icons/si'
 
 function Techstack() {
@@ -43,6 +44,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiJest />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGoogleanalytics />
       </Col>
     </Row>
   );
