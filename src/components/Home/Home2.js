@@ -26,11 +26,20 @@ function Home2() {
               <br />
               amazing is to have my loved ones around, work from anywhere and still be
               <br />
-              really productive. So I came back to studying backend development, that I had
+              really productive. So I came back to studying fullstack development, that I had
               <br />
-              studied in my bachelor's (2015-2019) in Exact Sciences and Tecnologies,
+              studied in my bachelor's degree (2015-2019) in Exact Sciences and Tecnologies,
               <br />
-              UFRB (Federal University of Bahia's Recôncavo). I also started a course at
+              <a
+                href="http://ufrb.edu.br"
+                target="_blank"
+                rel="noreferrer"
+                style={{ textDecoration: 'inherit' }}
+                className="purple"
+              >
+                UFRB (Federal University of Bahia's Recôncavo). {" "}
+              </a>
+              I also started a course at
               <br />
               Trybe {" "}
               <a
@@ -41,17 +50,17 @@ function Home2() {
                 className="purple"
               >
                 (check how it works!)
-              </a> to be an amazing webdeveloper, focused in backend development.
+              </a> to be an fullstack webdeveloper.
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> React, TypeScript, Javascript, MySQL, Python, Java and MongoDB. </b>
+                <b className="purple"> React, TypeScript, Javascript, MySQL, Python, Node.JS and MongoDB. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">Web Technologies, Products and Data Analytics. </b> and
                 also in areas related to{" "}
                 <b className="purple">
                   Deep Learning and Natural Launguage Processing.
@@ -114,16 +123,6 @@ function Home2() {
                   className="icon-colour  home-social-icons"
                 >
                   <FaLinkedinIn />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.instagram.com/brenusaraujo/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
                 </a>
               </li>
             </ul>
