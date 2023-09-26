@@ -8,25 +8,24 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Breno Araújo </span>
-            from <span className="purple"> based in Lisbon, Portugal.</span>
-            <br />I am a fullstack developer
+            Este curso será dividido em duas partes iniciais: <span className="purple">English 101 e English 202.</span> Na primeira parte, o foco principal estará na construção do seu vocabulário e no domínio das estruturas linguísticas, permitindo que você se familiarize gradualmente com o idioma.
+            <br />Já o <span className="purple">English 202</span> se concentrará em aprofundar suas habilidades básicas de maneira a torná-lo mais fluente, aproximando-o cada vez mais da verdadeira fluência no idioma.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Além de professor, algumas outras atividades que eu gosto de fazer:
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Jogar videogames
             </li>
             <li className="about-activity">
-              <ImPointRight /> Cooking
+              <ImPointRight /> Cozinhar
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Viajar
             </li>
             <li className="about-activity">
-              <ImPointRight /> Running and much more!
+              <ImPointRight /> Praticar esportes e muito mais!
             </li>
           </ul>
 

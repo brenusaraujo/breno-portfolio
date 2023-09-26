@@ -4,9 +4,8 @@ import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaLinkedinIn, FaWhatsapp } from "react-icons/fa";
 
 function Home2() {
   return (
@@ -18,67 +17,12 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am a former english teacher (I still teach for a few people). 🇺🇸
-              <br />
-              In 2020 I started work from home, 'cause of the pandemic. And I realise
-              how
-              <br />
-              amazing is to have my loved ones around, work from anywhere and still be
-              <br />
-              really productive. So I came back to studying fullstack development, that I had
-              <br />
-              studied in my bachelor's degree (2015-2019) in Exact Sciences and Tecnologies,
-              <br />
-              <a
-                href="http://ufrb.edu.br"
-                target="_blank"
-                rel="noreferrer"
-                style={{ textDecoration: 'inherit' }}
-                className="purple"
-              >
-                UFRB (Federal University of Bahia's Recôncavo). {" "}
-              </a>
-              I also started a course at
-              <br />
-              Trybe {" "}
-              <a
-                href="https://www.betrybe.com/"
-                target="_blank"
-                rel="noreferrer"
-                style={{ textDecoration: 'inherit' }}
-                className="purple"
-              >
-                (check how it works!)
-              </a> to be an fullstack webdeveloper.
-              <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> React, TypeScript, Javascript, MySQL, Python, Node.JS and MongoDB. </b>
-              </i>
+              Meu nome é Breno e estou pronto para ser seu guia e parceiro nessa incrível jornada pela língua inglesa! Tenho a certeza de que juntos, de maneira leve e intuitiva, alcançaremos a tão desejada fluência. Com 4 anos de experiência como professor em uma renomada escola de idiomas, trabalhei com alunos de todas as idades. No Brasil, tive a oportunidade de conhecer e colaborar com pessoas de diferentes nacionalidades em eventos internacionais realizados em nosso país.
+
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies, Products and Data Analytics. </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
-                </b>
-              </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <i><b className="purple">Node.js using Typescript, MySQL, Python and Java,</b></i> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js.</b>
-              </i>
+
+              Atualmente, sou um desenvolvedor em uma empresa dos Estados Unidos, onde uso o inglês diariamente. Há 2 anos, moro em Portugal e encontrei aqui a oportunidade de ajudar muitas pessoas a conquistar suas metas no aprendizado do inglês. Sou apaixonado por idiomas e estou sempre buscando aprender coisas novas. Agora, estou empolgado para compartilhar meus conhecimentos e te auxiliar no caminho para dominar o inglês. Let’s go!
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -91,7 +35,7 @@ function Home2() {
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              Você consegue me <span className="purple">encontrar </span>nesses links
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
@@ -106,12 +50,12 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/brenus96"
+                  href="https://api.whatsapp.com/send/?phone=351936194039&text=Olá%2C+vim+do+seu+site%21&type=phone_number&app_absent=0"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiOutlineTwitter />
+                  <FaWhatsapp />
                 </a>
               </li>
               <li className="social-icons">
