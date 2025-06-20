@@ -50,7 +50,6 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://api.whatsapp.com/send/?phone=351936194039&text=Olá%2C+vim+do+seu+site%21&type=phone_number&app_absent=0"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
